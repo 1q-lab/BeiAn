@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   version.plist
+   BeiAn_OC
+
+   Created by 郭丰锐 on 2020/7/3.
+   Copyright (c) 2020 郭丰锐. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>1.0</key>
+        <string>第一个版本测试</string>
+    </dict>
+</plist>
